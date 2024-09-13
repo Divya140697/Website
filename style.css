@@ -1,0 +1,35 @@
+
+#nav{
+    background-color: black;
+    color: beige;
+    height: 50px;
+}
+#logo{
+    font-size: 20px;
+    color: brown;
+}
+
+a{
+    margin-right: 200px;
+}
+#id1{
+    text-align: center;
+    color: black;
+    background-color: chocolate;
+    font-size: 50px;
+}
+h3{
+    color:maroon;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.section{
+    display: inline;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height:50px;
+}
